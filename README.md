@@ -84,6 +84,13 @@ The main goal is to build the **correct foundation** before adding real intellig
 **Agent:**  
 > The result is 20
 
+## Demo
+
+Below is a screenshot of the AI Agent v1 interface:
+
+![AI Agent Demo](https://github.com/Shaaban-Ali/ai-agent-v1/blob/main/assets/ai-agent-demo.png)
+
+
 ---
 
 ## 📦 Requirements
